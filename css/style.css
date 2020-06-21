@@ -1,0 +1,89 @@
+.navbar-brand_custom
+{
+font-family:impact;
+}
+.jumbotron_signup_custom
+{
+margin-top:-0.5em;
+padding-top:0.1em;
+}
+.heading_custom
+{
+font-family:segoe ui;
+}
+.input_custom
+{
+margin-top:0.5em;
+}
+.input_custom1
+{
+width:30%;
+}
+.jumbotron_none_custom
+{
+height:30em;
+padding-top:0.4em;
+padding-top:15em;
+padding-bottom:15em;
+}
+.jumbotron_custom
+{
+padding-top:0.4em;
+padding-bottom:20em;
+}
+label
+{
+font-family:segoe ui;
+}
+.image
+{
+width:90%;
+}
+body
+{
+font-family:segoe ui;
+}
+.error_msg
+{
+color:#FF3333;
+}
+.success_msg
+{
+color:#428bca;
+}
+.navbar_custom
+{
+background-color:#624620;
+border:#cb9e63;
+}
+.navbar_custom .navbar-brand {
+  color: #cb9e63;
+}
+.navbar_custom .navbar-text {
+  color: #cb9e63;
+}
+.navbar_custom .navbar-nav > li > a {
+  color: #cb9e63;
+}
+.navbar_custom .navbar-nav > .active > a,
+.navbar_custom .navbar-nav > .active > a:hover,
+.navbar_custom .navbar-nav > .active > a:focus {
+  color: #fff;
+  background-color: #FF9933;
+}
+.navbar_custom .navbar-toggle {
+  border-color: #cb9e63;
+}
+.navbar_custom .navbar-toggle:hover,
+.navbar_custom .navbar-toggle:focus {
+  background-color: #FF9933;
+}
+.navbar_custom .navbar-collapse,
+.navbar_custom .navbar-form {
+  border-color: #cb9e63;
+}
+.btn-warning
+{
+background-color:#FF9933;
+}
+
